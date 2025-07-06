@@ -60,7 +60,7 @@ The dashboard supports quick drill-downs into genre-specific and platform-based 
 
 ## 🔗 Tableau Public
 
-[Click here to view the live dashboard](https://public.tableau.com/app/profile/yourusername/viz/VideoGamesSalesDashboard/Overview)
+[Click here to view the live dashboard](https://public.tableau.com/views/VideoGamesSalesDashboard_17513008612670/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
