@@ -2,8 +2,8 @@
 
 An interactive Tableau Public dashboard that transforms global video game sales data into actionable insights through engaging visual storytelling.
 
-<p align="center">
-  <img src="Dashboard.png" alt="Tableau Screenshot" width="700"/>
+<p align="left">
+  <img src="Dashboard.png" alt="Tableau Screenshot" width="800"/>
 </p>
 
 ## 🚀 Project Overview
@@ -39,7 +39,6 @@ This project visualizes multi-regional video game sales data from a comprehensiv
 * **Tableau Public**
 * **Global video game sales dataset (CSV)**
 
----
 
 ## 📈 Project Impact
 
@@ -47,24 +46,12 @@ This project visualizes multi-regional video game sales data from a comprehensiv
 
 The dashboard supports quick drill-downs into genre-specific and platform-based patterns, empowering both industry analysts and gaming enthusiasts.
 
----
-
-## 🖼️ Dashboard Preview
-
-<table>
-  <tr>
-    <td><img src="assets/screenshot-overview.png" width="400" alt="Dashboard Overview"></td>
-    <td><img src="assets/screenshot-filters.png" width="400" alt="Dashboard Filters"></td>
-  </tr>
-</table>
-
----
 
 ## 🔗 Tableau Public
 
 [Click here to view the live dashboard](https://public.tableau.com/views/VideoGamesSalesDashboard_17513008612670/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
----
+
 
 ## 📄 License
 
