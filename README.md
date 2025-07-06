@@ -7,9 +7,7 @@ An interactive Tableau Public dashboard that transforms global video game sales 
 </p>
 
 
-## 🔗 Tableau Public
-
-[Click here to view the live dashboard](https://public.tableau.com/views/VideoGamesSalesDashboard_17513008612670/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [Click here to view the live dashboard](https://public.tableau.com/views/VideoGamesSalesDashboard_17513008612670/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
