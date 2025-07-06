@@ -2,7 +2,9 @@
 
 An interactive Tableau Public dashboard that transforms global video game sales data into actionable insights through engaging visual storytelling.
 
----
+<p align="center">
+  <img src="Dashboard.png" alt="Tableau Screenshot" width="700"/>
+</p>
 
 ## 🚀 Project Overview
 
