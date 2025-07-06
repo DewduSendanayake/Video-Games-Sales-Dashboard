@@ -37,7 +37,6 @@ This project visualizes multi-regional video game sales data from a comprehensiv
   * Total Publishers
   * Total Genres
 
----
 
 ## 🛠️ Technologies & Tools
 
